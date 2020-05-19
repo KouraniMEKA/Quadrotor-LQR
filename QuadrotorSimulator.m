@@ -218,16 +218,16 @@ function pushbutton2_Callback(hObject, eventdata, handles)
 % hObject    handle to pushbutton2 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-find_system('UAV_Model_working');
-set_param('UAV_Model_working','SimulationCommand','Start');
+find_system('UAV_Model_LQR');
+set_param('UAV_Model_LQR','SimulationCommand','Start');
 St=get(handles.St,'String');
-set_param('UAV_Model_working','StopTime',St);
+set_param('UAV_Model_LQR','StopTime',St);
 Xd=get(handles.Xd,'String');
-set_param('UAV_Model_working/LQI_Tracking/X_desired','Value',Xd);%
+set_param('UAV_Model_LQR/LQI_Tracking/X_desired','Value',Xd);%
 Yd=get(handles.Yd,'String');
-set_param('UAV_Model_working/LQI_Tracking/Y_desired','Value',Yd);
+set_param('UAV_Model_LQR/LQI_Tracking/Y_desired','Value',Yd);
 Zd=get(handles.Zd,'String');
-set_param('UAV_Model_working/LQI_Tracking/Z_desired','Value',Zd);
+set_param('UAV_Model_LQR/LQI_Tracking/Z_desired','Value',Zd);
 
 
 function St_Callback(hObject, eventdata, handles)

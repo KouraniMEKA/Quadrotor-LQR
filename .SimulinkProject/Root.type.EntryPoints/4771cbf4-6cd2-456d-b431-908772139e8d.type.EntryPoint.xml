@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Info Type="StartUp" Visible="0" Icon="" File="UAV_Model_working.slx" Name="UAV_Model_working">
+<Info Type="StartUp" Visible="0" Icon="" File="UAV_Model_LQR.slx" Name="UAV_Model_working">
     <Extension Value="c6feea1f-c2f2-4220-87da-d5374e9c60f3" Name="StartUpPrev" />
 </Info>
