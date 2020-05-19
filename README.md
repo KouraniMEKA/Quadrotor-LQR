@@ -1,6 +1,6 @@
 # Quadrotor-LQR
-A MATLAB/Simulink implementation of a primitive 6-DOF quadrotor model with an LQR/LQI controller.
-
+A MATLAB/Simulink implementation of a primitive 6-DOF quadrotor model with an LQR/LQI controller.<br />
+A [project report](https://github.com/KouraniMEKA/Quadrotor-LQR/Final Report.pdf) is included.
 
 # Prerequisites
 MATLAB/Simulink software v2018a or higher.
@@ -14,13 +14,14 @@ MATLAB/Simulink software v2018a or higher.
 
 # Sample results
 <p align="center">
-  <img src="https://github.com/KouraniMEKA/Quadrotor-LQR/tree/master/images/GUI_sample.JPG">
+  <img src="https://github.com/KouraniMEKA/Quadrotor-LQR/blob/master/images/GUI_sample.JPG">
   <br />
 </p>
 
 # Authors
-**Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA).
+**Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA). <br />
 **Mohammad Hisham Ismail** 
+**Rami Hamdan**
 
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Quadrotor-LQR/blob/master/LICENSE) file for details.
