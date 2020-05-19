@@ -20,8 +20,8 @@ MATLAB/Simulink software v2018a or higher.
 
 # Authors
 * **Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA). <br />
-* **Mohammad Hisham Ismail** <br />
-* **Rami Hamdan** <br />
+* **Mohammad Hisham Ismail**. <br />
+* **Rami Hamdan**. <br />
 
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/KouraniMEKA/Quadrotor-LQR/blob/master/LICENSE) file for details.
