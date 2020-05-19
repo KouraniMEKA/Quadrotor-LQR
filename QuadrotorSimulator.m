@@ -61,7 +61,7 @@ guidata(hObject, handles);
 % UIWAIT makes QuadrotorSimulator wait for user response (see UIRESUME)
 % uiwait(handles.figure1);
 axes(handles.Image);
-imshow('image.jpg');
+imshow('images\image.jpg');
 
 
 % --- Outputs from this function are returned to the command line.

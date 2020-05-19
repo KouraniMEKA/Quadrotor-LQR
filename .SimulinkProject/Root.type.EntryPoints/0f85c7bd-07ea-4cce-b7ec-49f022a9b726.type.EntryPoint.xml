@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="QuadrotorSimulator.m" Name="QuadrotorSimulator">
+    <Extension Value="4771cbf4-6cd2-456d-b431-908772139e8d" Name="StartUpPrev" />
+</Info>
