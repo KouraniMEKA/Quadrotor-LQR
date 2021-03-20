@@ -19,7 +19,7 @@ MATLAB/Simulink software v2018a or higher.
 </p>
 
 # Authors
-* **Ahmad Kourani** - *inital work* - [KouraniMEKA](https://github.com/KouraniMEKA). <br />
+* **Ahmad Kourani** - *initial work* - [KouraniMEKA](https://github.com/KouraniMEKA). <br />
 * **Mohammad Hisham Ismail**. <br />
 * **Rami Hamdan**. <br />
 
